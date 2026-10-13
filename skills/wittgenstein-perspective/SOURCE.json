@@ -1,0 +1,24 @@
+{
+  "folder": "wittgenstein-skill",
+  "name": "wittgenstein-perspective",
+  "entry": "library/wittgenstein-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/wittgenstein-skill",
+  "files": 5,
+  "snapshot_sha256": "746a2380247ec594d1f8bf99e8bf765103549c5c67b20cd225aeec6b59c10a0a",
+  "repository": "nuwa-skills/wittgenstein-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/wittgenstein-skill/blob/7c77610e214cff3e90b49e2ecd21bc244a9f0e82/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "7c77610e214cff3e90b49e2ecd21bc244a9f0e82",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "59c3bd55ec72284d6393d6534e184cb5bbaa08c02a250adf979ca2163183a159",
+    "SKILL.md": "746a2380247ec594d1f8bf99e8bf765103549c5c67b20cd225aeec6b59c10a0a",
+    "examples/demo-conversation.md": "c7d796602b60422375bfefc636bfd902656d5a3774f343e74d207dbfc9343347",
+    "references/research.md": "d9af32cff61788ab188ddffbd8d54f5f831e538b2022821b858c3ed30f6c69cc"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "wittgenstein-perspective"
+}

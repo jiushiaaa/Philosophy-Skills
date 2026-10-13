@@ -1,0 +1,26 @@
+{
+  "folder": "laoshe-skill",
+  "name": "laoshe-perspective",
+  "entry": "library/laoshe-skill/SKILL.md",
+  "source": "https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/Novelists/laoshe-skill",
+  "files": 7,
+  "snapshot_sha256": "118811aeeb2111d43ed559d384bb44c0da5b29ea1acd179327842ae1f920518f",
+  "repository": "momozi1996/awesome-ai-persona-skills",
+  "owner": "momozi1996",
+  "license": "MIT",
+  "license_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/729ff734f5edcbaed70e256d1031fd0a224f6527/LICENSE",
+  "license_sha256": "6851fdc939165be4f25a868052bb2ed704ed6f98b940c70e33d211af3f4b53b8",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "729ff734f5edcbaed70e256d1031fd0a224f6527",
+  "local_snapshot_hashes": {
+    "SKILL.md": "118811aeeb2111d43ed559d384bb44c0da5b29ea1acd179327842ae1f920518f",
+    "references/research/01-writings.md": "c3d83bf0005a5d08324e5ba1c446bd2778d4b7d341a15a9d12346d45c6c6e0ac",
+    "references/research/02-conversations.md": "292d0b2ddfc27fea6a11b1f4233633bb3be1b6e794db4b82a817f9fa75c9140b",
+    "references/research/03-expression-dna.md": "5a48bf2ed0951b6829295c76e4eaccd65d71fd06054d016b285dc57d62fb1f05",
+    "references/research/04-external-views.md": "254e8ae6255571487225e6aaf6cafb7dc226f51ca1e83b444fe73dc33d348ac3",
+    "references/research/05-decisions.md": "d5fdfe5cb967a12527ad4ada44b56149b2f8ae267d110c45b7ad8a7b738fef0d",
+    "references/research/06-timeline.md": "a8bbfb89880d6adf56af2d4f3c7479e4b71ca04e2eea7c4497de60b7b2d869c9"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "laoshe-perspective"
+}

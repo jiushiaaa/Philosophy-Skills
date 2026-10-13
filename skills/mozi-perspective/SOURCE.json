@@ -1,0 +1,24 @@
+{
+  "folder": "mozi-skill",
+  "name": "mozi-perspective",
+  "entry": "library/mozi-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/mozi-skill",
+  "files": 5,
+  "snapshot_sha256": "03954cd5881ffb310012c4d61882f0bda6be33a152f962c58fef480d4a592aec",
+  "repository": "nuwa-skills/mozi-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/mozi-skill/blob/3d05e490af133808d865ed6a317d41a57bf0f19d/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "3d05e490af133808d865ed6a317d41a57bf0f19d",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "cf3aa6c75b47ed848c15a0fa05fb90da14076ce371b264b506d3e85315fd892c",
+    "SKILL.md": "03954cd5881ffb310012c4d61882f0bda6be33a152f962c58fef480d4a592aec",
+    "examples/demo-conversation.md": "4a9f8222236525a102c4a64051ba6153d331bbf340871cdb0cddee2e5c7e7f09",
+    "references/research.md": "249cf78f425721cadce45dad20fb1bf79aadf6dd379b392a2c7363bdee871783"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "mozi-perspective"
+}

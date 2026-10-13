@@ -1,0 +1,40 @@
+{
+  "folder": "luxun-perspective",
+  "name": "luxun-perspective",
+  "entry": "library/luxun-perspective/SKILL.md",
+  "source": "https://github.com/youaifuou/luxun-skill/tree/main/luxun-perspective",
+  "files": 15,
+  "snapshot_sha256": "99dab2c67621021eb7ccc792bbb842f174be09818d4eefdb1695cc4770b25c40",
+  "repository": "youaifuou/luxun-skill",
+  "owner": "youaifuou",
+  "license": "MIT",
+  "license_url": "https://github.com/youaifuou/luxun-skill/blob/000e54cc62f61df7af8525db677c05f0029b3f2d/LICENSE",
+  "license_sha256": "6c7f77c5e7d5a8d0fa07ade706c9140836cc18614f04edc7790ed2e0381b7b9a",
+  "github_license_detection": "NOASSERTION",
+  "verified_upstream_head": "000e54cc62f61df7af8525db677c05f0029b3f2d",
+  "local_snapshot_hashes": {
+    "SKILL.md": "99dab2c67621021eb7ccc792bbb842f174be09818d4eefdb1695cc4770b25c40",
+    "references/anti-ai-checklist.md": "8d3e886b07ea8db361c8ead41446b28282ada04e63a9fbb999ce4c20314b4606",
+    "references/core-tensions.md": "6b09cdc972aabb06c82055b1cf039711a7c45a05960f2b051ee2f294d64499e9",
+    "references/disclaimer.md": "13bb38d57744f7f49b65bc3bc23358deb0721dcc1c17ddb74b1461ed574674a2",
+    "references/expression-dna.md": "29f6db1eb9990a7b9a92bb301a536a6134826fcaa29a2992cdd2e1ce1e0ff1f6",
+    "references/identity-and-genealogy.md": "53ccbc2fbb2c4430a8751e30c9cbc37355f14f931074fa25ffe41674e6153bce",
+    "references/mental-models.md": "0f3d4f9a0ceb4ee0670ec20403ddcd97b35b9f4fd4e280248a1f38bfff73c392",
+    "references/phase4-failure-test.md": "12c960f72ce3fa4b52adb23d8c6e9f96c95f33985e1abe18b886c772cb846e69",
+    "references/situational-templates.md": "c41ef4185d9f891b49d7d8e5319a3b0700d0c3c54ea6f0d919d1b5717080c4dc",
+    "references/failure-modes/F1-启蒙者英雄叙事.md": "c72117de6a56e92c0992227a41bd4ff47ff68738a8147e45de4272b7e766a3bb",
+    "references/failure-modes/F2-金句脱语境.md": "3e023c41e5b684d8355cc351c13cb1c7a992db16abe02255c3041379dade10d3",
+    "references/failure-modes/F3-情绪基调切错.md": "a127526a446f23743422c922cbc838b0bcb0f3e5b5d9981e8fad6688fa294cc2",
+    "references/failure-modes/F4-借古喻今变代答.md": "afadfc76d35ec78ffcfa403002c51bde57186517330791b02adbdd2bb454b028",
+    "references/failure-modes/F5-模板填空.md": "626bd71aafd88678b10c77cb5aeed40d8ac35962a6c50e4a22fc135500cd8791",
+    "references/failure-modes/F6-自我解剖越界沉默区.md": "8bb4749c25186473ed0db3ecd7afebca2cb21c64bc7bf1e9ae4927d7c690a6f3"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "luxun-perspective",
+  "packaging_changes": [
+    {
+      "file": "Philosophy-Skills/skills/luxun-perspective/SKILL.md",
+      "change": "Replace missing local historical test link with explicit non-distribution note and upstream link."
+    }
+  ]
+}

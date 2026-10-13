@@ -1,0 +1,24 @@
+{
+  "folder": "wangxiaobo-skill",
+  "name": "wangxiaobo-perspective",
+  "entry": "library/wangxiaobo-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/wangxiaobo-skill",
+  "files": 5,
+  "snapshot_sha256": "9b89322a967423ef86c0f5d42c609867d3b1c6c3dbbc1ff28ac011e1b8cf3530",
+  "repository": "nuwa-skills/wangxiaobo-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/wangxiaobo-skill/blob/a37e291075e54692deb9d04611ccd34c300291c7/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "a37e291075e54692deb9d04611ccd34c300291c7",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "44560fbde0d4dc104e5b94e5d6078fac7af2b37565b9b36a7263274a8d0c5d68",
+    "SKILL.md": "9b89322a967423ef86c0f5d42c609867d3b1c6c3dbbc1ff28ac011e1b8cf3530",
+    "examples/demo-conversation.md": "28b56c0e9821521a25b1b0739d53b5458bb9f5f48e6e7ebd3ce621f60fbbd9d7",
+    "references/research.md": "9a3791b41f01f954415a7bc9e50bdae513e647a1e33d02ababa0868bb720374a"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "wangxiaobo-perspective"
+}

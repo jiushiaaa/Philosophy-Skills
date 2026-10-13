@@ -1,0 +1,24 @@
+{
+  "folder": "plato-skill",
+  "name": "plato-perspective",
+  "entry": "library/plato-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/plato-skill",
+  "files": 5,
+  "snapshot_sha256": "cb70eb6ce763492b05062bd687234b3418dfefca79e27741a81cf834caa89f73",
+  "repository": "nuwa-skills/plato-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/plato-skill/blob/2c52957c3fd46c9c174c188baca4cf19de5b99e2/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "2c52957c3fd46c9c174c188baca4cf19de5b99e2",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "e9108d0e3a3b55d7db0dbfd8c5b8ef98f77b4b6032ae9230047203f549673034",
+    "SKILL.md": "cb70eb6ce763492b05062bd687234b3418dfefca79e27741a81cf834caa89f73",
+    "examples/demo-conversation.md": "7d5c01965b83eaa57befbab7ce1f23ff3f2923dc1972c2c1ea6d0434ee2a99c7",
+    "references/research.md": "0e4033e377774cb6d300bd4e0f33dfc94ba89920e9592c41692bc79aaf3cfd62"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "plato-perspective"
+}

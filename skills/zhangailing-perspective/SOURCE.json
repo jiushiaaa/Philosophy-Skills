@@ -1,0 +1,24 @@
+{
+  "folder": "zhangailing-skill",
+  "name": "zhangailing-perspective",
+  "entry": "library/zhangailing-skill/SKILL.md",
+  "source": "https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/Novelists/zhangailing-skill",
+  "files": 5,
+  "snapshot_sha256": "23392c6e56046dde202d08274da6f246d565ea59cafa8c95611199b2d540262e",
+  "repository": "momozi1996/awesome-ai-persona-skills",
+  "owner": "momozi1996",
+  "license": "MIT",
+  "license_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/729ff734f5edcbaed70e256d1031fd0a224f6527/LICENSE",
+  "license_sha256": "6851fdc939165be4f25a868052bb2ed704ed6f98b940c70e33d211af3f4b53b8",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "729ff734f5edcbaed70e256d1031fd0a224f6527",
+  "local_snapshot_hashes": {
+    "SKILL.md": "23392c6e56046dde202d08274da6f246d565ea59cafa8c95611199b2d540262e",
+    "references/research/01-writings.md": "0d2c7d77fd392951d1976a9a7aef69b8a91b188fe3e487ee1007261eec35faed",
+    "references/research/02-conversations.md": "91e9e7b390078c63ae35c4692a0c4eb1dcd1f31e48fff13e5a9d342386faf5a0",
+    "references/research/03-expression-dna.md": "2c09466db5a1ca8c591b9a170cd037a31cc64ccefec972e52ae93b6b833fd877",
+    "references/research/04-external-views.md": "9bdf156925576ef02d677761266e732bb05f7b18829aabc4ea43f55056b27a0b"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "zhangailing-perspective"
+}

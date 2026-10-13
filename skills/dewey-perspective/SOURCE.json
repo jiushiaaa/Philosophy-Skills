@@ -1,0 +1,24 @@
+{
+  "folder": "dewey-skill",
+  "name": "dewey-perspective",
+  "entry": "library/dewey-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/dewey-skill",
+  "files": 5,
+  "snapshot_sha256": "01053be7e174b55df8c6a88adb3077c030546e881bc488c2ec7503b0683b933c",
+  "repository": "nuwa-skills/dewey-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/dewey-skill/blob/9f04d573962e8ab2c72362a220632c24f799db0d/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "9f04d573962e8ab2c72362a220632c24f799db0d",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "bd878e1cd2f710587a5e27ca64a0b23d83c461882cbf71cf18c29aaf027c3ea3",
+    "SKILL.md": "01053be7e174b55df8c6a88adb3077c030546e881bc488c2ec7503b0683b933c",
+    "examples/demo-conversation.md": "3f96827628aeb0f113dce0d504b5d4ca3084bdf2fbfe0a2e2fde46f2822e6223",
+    "references/research.md": "8047ff6f53e0f14a557555c520fbc92a74f0314ae3fee7be9dacd6f7d956c36a"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "dewey-perspective"
+}

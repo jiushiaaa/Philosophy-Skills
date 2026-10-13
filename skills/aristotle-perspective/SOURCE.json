@@ -1,0 +1,24 @@
+{
+  "folder": "aristotle-skill",
+  "name": "aristotle-perspective",
+  "entry": "library/aristotle-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/aristotle-skill",
+  "files": 5,
+  "snapshot_sha256": "d360aaa7438d80d975cd0d3a925955f4a1c31bb28368702817841b7d1527f992",
+  "repository": "nuwa-skills/aristotle-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/aristotle-skill/blob/2adf130171cef24a144b399dd29e8e93a07abc0a/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "2adf130171cef24a144b399dd29e8e93a07abc0a",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "ccd19912a5a4be9d644885357ee044f0c5fa881b50f6b94b272929fb174a5819",
+    "SKILL.md": "d360aaa7438d80d975cd0d3a925955f4a1c31bb28368702817841b7d1527f992",
+    "examples/demo-conversation.md": "6d9f30bc0dfa238a7cbef091d3b41b073e7e651b140a38e28855a478fe6b4453",
+    "references/research.md": "a67d1747c3e5aaf4ebe47e946ea61aedd7d53aa4ac5319b31b348d0db4e5cafc"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "aristotle-perspective"
+}

@@ -1,0 +1,24 @@
+{
+  "folder": "borges-skill",
+  "name": "borges-perspective",
+  "entry": "library/borges-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/borges-skill",
+  "files": 5,
+  "snapshot_sha256": "472f12f4b68814c727b739a8c693b53e8d513c14a40bb32dbf891e7d31d136eb",
+  "repository": "nuwa-skills/borges-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/borges-skill/blob/7066465d02538b11d3939af2d22848031d462019/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "7066465d02538b11d3939af2d22848031d462019",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "322ae8a641376f2dd187f4a7c497bbb0be354ab1712f022f7c87bc93eedac378",
+    "SKILL.md": "472f12f4b68814c727b739a8c693b53e8d513c14a40bb32dbf891e7d31d136eb",
+    "examples/demo-conversation.md": "c55bc0d03249ab7f0581411f139f4d0029931d37c91321b151ba72f519931243",
+    "references/research.md": "13c852d4f3702e361ad750f041d759e98bb9f594d05e3acec81ff016e9415564"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "borges-perspective"
+}

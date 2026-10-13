@@ -1,0 +1,24 @@
+{
+  "folder": "socrates-skill",
+  "name": "socrates-perspective",
+  "entry": "library/socrates-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/socrates-skill",
+  "files": 5,
+  "snapshot_sha256": "dcc4eec1a218e52ca27a85e9db069b77c8cb7760ac94450e107f2d6fdba27db7",
+  "repository": "nuwa-skills/socrates-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/socrates-skill/blob/7fcc9ade859af7fc23a72031e510daba9156c5e6/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "7fcc9ade859af7fc23a72031e510daba9156c5e6",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "afda214e87eb18773c6cd959054610e505cb031b9d870c27eaed802d1f8eae32",
+    "SKILL.md": "dcc4eec1a218e52ca27a85e9db069b77c8cb7760ac94450e107f2d6fdba27db7",
+    "examples/demo-conversation.md": "81c3be19ef05a8315066a3b8aba46e4433bbf44477c6338106f8dd90d1bbbb51",
+    "references/research.md": "787a8debc94f92b3d64d4dede76260efcbbc222cf4138002538cba3d8abf9a3f"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "socrates-perspective"
+}

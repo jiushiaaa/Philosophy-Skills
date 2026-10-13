@@ -1,0 +1,24 @@
+{
+  "folder": "schopenhauer-skill",
+  "name": "schopenhauer-perspective",
+  "entry": "library/schopenhauer-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/schopenhauer-skill",
+  "files": 5,
+  "snapshot_sha256": "8236cae2b88bb6d8d196fdb164aeb5594164725da23c22cd31aef049faeb01b9",
+  "repository": "nuwa-skills/schopenhauer-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/schopenhauer-skill/blob/7b91606a69e37364804a4e894da5009af85ff365/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "7b91606a69e37364804a4e894da5009af85ff365",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "e720ae8fac2ff09fa9b9d1eec82cdb487416de8acacc2c05442e587a59ed42e7",
+    "SKILL.md": "8236cae2b88bb6d8d196fdb164aeb5594164725da23c22cd31aef049faeb01b9",
+    "examples/demo-conversation.md": "1fb6a3af469877f729bd4a4910c16497db8fce517bfd7968bc3492bd96867515",
+    "references/research.md": "b7311c431d3f244cc097a45995ec4bb80b2268cf2632265fa3a393043d33a679"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "schopenhauer-perspective"
+}

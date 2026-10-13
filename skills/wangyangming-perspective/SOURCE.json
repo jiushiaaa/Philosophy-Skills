@@ -1,0 +1,24 @@
+{
+  "folder": "wangyangming-skill",
+  "name": "wangyangming-perspective",
+  "entry": "library/wangyangming-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/wangyangming-skill",
+  "files": 5,
+  "snapshot_sha256": "b6de970ffc979a339cd19900fe4e4d44505b1b8c58fd31ec7729f7faf710423a",
+  "repository": "nuwa-skills/wangyangming-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/wangyangming-skill/blob/773f32f1040c477727a666a79a045692b9e53e75/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "773f32f1040c477727a666a79a045692b9e53e75",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "0a7529c7e61b3809b37e9072f234813b21b19dd4fa06185e893ad8919d104294",
+    "SKILL.md": "b6de970ffc979a339cd19900fe4e4d44505b1b8c58fd31ec7729f7faf710423a",
+    "examples/demo-conversation.md": "86c7cc9d721591f8066bf3b39ee4810fe1d3bf32e84076a9b090f043b26accfd",
+    "references/research.md": "a6580eedd91c9277c568799978306d58db95e0c2b222127f6e9f7dcc5838763a"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "wangyangming-perspective"
+}

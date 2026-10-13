@@ -1,0 +1,26 @@
+{
+  "folder": "shitiesheng-skill",
+  "name": "shitiesheng-perspective",
+  "entry": "library/shitiesheng-skill/SKILL.md",
+  "source": "https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/Novelists/shitiesheng-skill",
+  "files": 7,
+  "snapshot_sha256": "17aea027f140f1de405c9f20be1a514bb5cd6c32ea32b96b18b429e2f7b8c0d2",
+  "repository": "momozi1996/awesome-ai-persona-skills",
+  "owner": "momozi1996",
+  "license": "MIT",
+  "license_url": "https://github.com/momozi1996/awesome-ai-persona-skills/blob/729ff734f5edcbaed70e256d1031fd0a224f6527/LICENSE",
+  "license_sha256": "6851fdc939165be4f25a868052bb2ed704ed6f98b940c70e33d211af3f4b53b8",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "729ff734f5edcbaed70e256d1031fd0a224f6527",
+  "local_snapshot_hashes": {
+    "SKILL.md": "17aea027f140f1de405c9f20be1a514bb5cd6c32ea32b96b18b429e2f7b8c0d2",
+    "references/research/01-writings.md": "34851f2265fcd27344ef64bdbe5247f9be324637181a931cb42b8b633e3766f7",
+    "references/research/02-conversations.md": "f25d7cb690c694863897294021fed30b593b682f693ec1532d482424d1dce5b7",
+    "references/research/03-expression-dna.md": "a3535252bb710e00ea8be601ae3831739c85cf11b778c654399ba58f26d3aa24",
+    "references/research/04-external-views.md": "72a5f93afcc4e7736f049f8b10552bdecf08557e3e5ee85f3dc6da4c16463453",
+    "references/research/05-decisions.md": "2cbec41672bab41513d4457a5178dee0076ac8bf6114fd17b6228d91ca91bc51",
+    "references/research/06-timeline.md": "52aff027afd1f8b9ee5fc8006205fd694963b3a59e035b49e317ad9c53c77763"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "shitiesheng-perspective"
+}

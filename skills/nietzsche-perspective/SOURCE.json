@@ -1,0 +1,24 @@
+{
+  "folder": "nietzsche-skill",
+  "name": "nietzsche-perspective",
+  "entry": "library/nietzsche-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/nietzsche-skill",
+  "files": 5,
+  "snapshot_sha256": "22f47e3862aa2667885bc8e9bc6e5aea127f395ca2b9ce722c3572c65f792674",
+  "repository": "nuwa-skills/nietzsche-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/nietzsche-skill/blob/18fc393fae875e922ff7b3ffdeb103471de576dc/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "18fc393fae875e922ff7b3ffdeb103471de576dc",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "21707d34a4a24def5f8b8811a0ea8d5532915afb2114682a535724bff3202246",
+    "SKILL.md": "22f47e3862aa2667885bc8e9bc6e5aea127f395ca2b9ce722c3572c65f792674",
+    "examples/demo-conversation.md": "fd94f9a4265c4060a7ffc99df030c91d4f53d47f31f7a2255905b9d3ea960083",
+    "references/research.md": "09087480485368c03ce9fd87dda810217667db3716fd26c8e0f058f81089ff40"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "nietzsche-perspective"
+}

@@ -1,0 +1,24 @@
+{
+  "folder": "zhuangzi-skill",
+  "name": "zhuangzi-perspective",
+  "entry": "library/zhuangzi-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/zhuangzi-skill",
+  "files": 5,
+  "snapshot_sha256": "0898fb6cc4f98394ea0ca63232bf1b63d278918eb9403fbff3ded9ae6e7d06c7",
+  "repository": "nuwa-skills/zhuangzi-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/zhuangzi-skill/blob/2acd5532cacb9167b7da5e2f3cbebc6dc07706cb/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "2acd5532cacb9167b7da5e2f3cbebc6dc07706cb",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "38f5fd1df64afc388bee240e9b88047618bb32f89567dff114fca1a37d3ec379",
+    "SKILL.md": "0898fb6cc4f98394ea0ca63232bf1b63d278918eb9403fbff3ded9ae6e7d06c7",
+    "examples/demo-conversation.md": "f900f533c9d8cbed6e809f686ca56c0097e4b167893daf37bc7449c3e148a4fe",
+    "references/research.md": "3cbe0255dc009fa0f8a4855b7437e698dfcd7faf241b84ac76dab34b5c990e29"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "zhuangzi-perspective"
+}

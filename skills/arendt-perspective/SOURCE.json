@@ -1,0 +1,24 @@
+{
+  "folder": "arendt-skill",
+  "name": "arendt-perspective",
+  "entry": "library/arendt-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/arendt-skill",
+  "files": 5,
+  "snapshot_sha256": "d795e77134f173b0f58f5146f60f3b44cc517963a9be41c2387e4aa5da5d38da",
+  "repository": "nuwa-skills/arendt-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/arendt-skill/blob/ca82a120e94c47a9f7b413fe4a3de84d10045c2f/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "ca82a120e94c47a9f7b413fe4a3de84d10045c2f",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "49a80182d1aedfb471d68e65a3bc1101ccf7fa68519d8e24fa8606f345ab2c60",
+    "SKILL.md": "d795e77134f173b0f58f5146f60f3b44cc517963a9be41c2387e4aa5da5d38da",
+    "examples/demo-conversation.md": "f329b1df5d618959dc9daa23d963498abb6bfe39140f2b60f463c50c589e014d",
+    "references/research.md": "5f182a606a8d5aa8a520feb548979cc278ef4f04ffc8c2320fda5823a0b8f31d"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "arendt-perspective"
+}

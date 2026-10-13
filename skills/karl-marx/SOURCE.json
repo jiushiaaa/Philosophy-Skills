@@ -1,0 +1,25 @@
+{
+  "folder": "karl-marx",
+  "name": "karl-marx",
+  "entry": "library/karl-marx/SKILL.md",
+  "source": "https://github.com/youaifuou/karl-marx-skill/tree/main/karl-marx",
+  "files": 6,
+  "snapshot_sha256": "e7c46829892a57d70e31a7aabebe3d70418a0fb8b7c8cee34464380ad3c3dcf4",
+  "repository": "youaifuou/karl-marx-skill",
+  "owner": "youaifuou",
+  "license": "MIT",
+  "license_url": "https://github.com/youaifuou/karl-marx-skill/blob/875f7647951aa9c14841316fdae465cb841a76fd/LICENSE",
+  "license_sha256": "2d5cfa81a541bd9ea34edcccdd5850a148b998dfbc7094180c5f4f4d800228f3",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "875f7647951aa9c14841316fdae465cb841a76fd",
+  "local_snapshot_hashes": {
+    "SKILL.md": "e7c46829892a57d70e31a7aabebe3d70418a0fb8b7c8cee34464380ad3c3dcf4",
+    "references/corpus-sources.md": "fb7ae00fccee106fd7bd50e1a143e4c0f94ae8a83582a83dfa73d571aed97e94",
+    "references/debate-opponents.md": "0fbb315e2c2ae0c41af226c4f1e2ccfa298c15f7720b8b4e17d8924a2d47d845",
+    "references/expression-dna.md": "b84d7cdca9feb7d2ab21b07d1da054edcc4bd9b65304386d31ed3299680fb296",
+    "references/identity-card.md": "bf45616069dec735af936e3e9890877496865ed7477275406000797cb2add2a1",
+    "references/writing-samples.md": "bc0c068ef3d0e7cda5551514bef322cd6695c64ac934c35567d8c278278fe6e3"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "karl-marx"
+}

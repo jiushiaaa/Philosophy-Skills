@@ -1,0 +1,24 @@
+{
+  "folder": "beauvoir-skill",
+  "name": "beauvoir-perspective",
+  "entry": "library/beauvoir-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/beauvoir-skill",
+  "files": 5,
+  "snapshot_sha256": "8a9e5bcbe45b6abe5753dc4608bce1285edbc3691aaac0db1f5ae821a914f926",
+  "repository": "nuwa-skills/beauvoir-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/beauvoir-skill/blob/1d349b738e2def57ac1ee86d3c0d78ee62e14ee4/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "1d349b738e2def57ac1ee86d3c0d78ee62e14ee4",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "27af88f45e67c9b85fd4f225f2490978caf3d845a23117b9f2a3fc3a707efed8",
+    "SKILL.md": "8a9e5bcbe45b6abe5753dc4608bce1285edbc3691aaac0db1f5ae821a914f926",
+    "examples/demo-conversation.md": "0238041202dc7fbd79a1ec14520570e730a6c0eb6800d9cca0e49568b3c33271",
+    "references/research.md": "5b22a8fa65e0ed124f536a696895baf6bc7a34f3162d027d30d3b48c1ec7852d"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "beauvoir-perspective"
+}

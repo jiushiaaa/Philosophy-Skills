@@ -1,0 +1,24 @@
+{
+  "folder": "kafka-skill",
+  "name": "kafka-perspective",
+  "entry": "library/kafka-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/kafka-skill",
+  "files": 5,
+  "snapshot_sha256": "1f6452e199e06f00a64fbf1167a385a886361f0a5af77661ab02e79b0965f514",
+  "repository": "nuwa-skills/kafka-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/kafka-skill/blob/8475c00c19fdd4703dcecb770597bd315b0e67f1/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "8475c00c19fdd4703dcecb770597bd315b0e67f1",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "59d9244e2487a70f78aa7d5487a67c3a40f83f9bef0fb40bb538550ac94b4a14",
+    "SKILL.md": "1f6452e199e06f00a64fbf1167a385a886361f0a5af77661ab02e79b0965f514",
+    "examples/demo-conversation.md": "342b913cb2984cf0d3858bd221d07a56357f539425d6c8ba36e60e67b559f406",
+    "references/research.md": "9e55420ce43ce3ae22b0238598a80fa7940f42c29960131e262873208d38ae1f"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "kafka-perspective"
+}

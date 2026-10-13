@@ -1,0 +1,24 @@
+{
+  "folder": "orwell-skill",
+  "name": "orwell-perspective",
+  "entry": "library/orwell-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/orwell-skill",
+  "files": 5,
+  "snapshot_sha256": "459d0e424217adafa1454421f085f29dd2d990578272e2647958054b48d8d808",
+  "repository": "nuwa-skills/orwell-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/orwell-skill/blob/52498a836f688d0287c31b2737dec117732a4966/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "52498a836f688d0287c31b2737dec117732a4966",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "ed4027e8169ababfa1d30abcbde84bb684564c8b330fa8682a552994e498a7a6",
+    "SKILL.md": "459d0e424217adafa1454421f085f29dd2d990578272e2647958054b48d8d808",
+    "examples/demo-conversation.md": "61f5bf9017e78c38574c7bd2091a7a508a0bbf9cbc40d01929a227b7687217f8",
+    "references/research.md": "685feece17e42100ca9c7ea8f60136f92f4863680c2b3749f43f99536fb0db8b"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "orwell-perspective"
+}

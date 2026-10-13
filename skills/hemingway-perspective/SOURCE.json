@@ -1,0 +1,24 @@
+{
+  "folder": "hemingway-skill",
+  "name": "hemingway-perspective",
+  "entry": "library/hemingway-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/hemingway-skill",
+  "files": 5,
+  "snapshot_sha256": "44107a8641f053f0a9004e872d3a1c2c0f56ab25591e6c349bec1023911233ab",
+  "repository": "nuwa-skills/hemingway-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/hemingway-skill/blob/bae55add5e013d34d8bba198c65d69bb9a813d6c/LICENSE",
+  "license_sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "bae55add5e013d34d8bba198c65d69bb9a813d6c",
+  "local_snapshot_hashes": {
+    "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+    "README.md": "87f9c7ba444aa9b3e62292a16d1641ca494cc27e7d2df0fc7622f9f68be4f9ba",
+    "SKILL.md": "44107a8641f053f0a9004e872d3a1c2c0f56ab25591e6c349bec1023911233ab",
+    "examples/demo-conversation.md": "7eccc9d947dfce72bcb723af8bbbcb377df5789dcbd2021573a1f58c8cf3aafe",
+    "references/research.md": "6883c88628156e4624f70c9fd7967c947c4c6afc2c4cb34912021c51f7d8f941"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "hemingway-perspective"
+}

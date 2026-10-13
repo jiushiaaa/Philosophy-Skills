@@ -1,0 +1,24 @@
+{
+  "folder": "foucault-skill",
+  "name": "foucault-perspective",
+  "entry": "library/foucault-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/foucault-skill",
+  "files": 5,
+  "snapshot_sha256": "0d5b4ad02fdc6d04d75502fd9f95b2bb8519a8dde3f18f925b11cc2e813fee48",
+  "repository": "nuwa-skills/foucault-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/foucault-skill/blob/f2b2b689b05e1733099b6b8a3e105abd346d5c3c/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "f2b2b689b05e1733099b6b8a3e105abd346d5c3c",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "f53d05e38e114cd21e70f323d051089eb9bdba0a23ab2c6092370a3915ee980e",
+    "SKILL.md": "0d5b4ad02fdc6d04d75502fd9f95b2bb8519a8dde3f18f925b11cc2e813fee48",
+    "examples/demo-conversation.md": "9e5b55e7f6bc6eec858781f939de56013548349ca2d13a1f54142a38209207f7",
+    "references/research.md": "144bb5a0e7710bf4bebbaebc0f2e25922cfd1cc1b4884c20d7fa18a78fe12fe6"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "foucault-perspective"
+}

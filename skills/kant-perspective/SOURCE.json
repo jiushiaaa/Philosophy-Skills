@@ -1,0 +1,24 @@
+{
+  "folder": "kant-skill",
+  "name": "kant-perspective",
+  "entry": "library/kant-skill/SKILL.md",
+  "source": "https://github.com/nuwa-skills/kant-skill",
+  "files": 5,
+  "snapshot_sha256": "d7cb1014773963b3dd58e08ccdb1f7540c2ea1c5eda0088f8cdc55423ff40a49",
+  "repository": "nuwa-skills/kant-skill",
+  "owner": "nuwa-skills",
+  "license": "MIT",
+  "license_url": "https://github.com/nuwa-skills/kant-skill/blob/d72e2da4cff7083cb3fe6d5d0e27ecf213b9dfe3/LICENSE",
+  "license_sha256": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+  "github_license_detection": "MIT",
+  "verified_upstream_head": "d72e2da4cff7083cb3fe6d5d0e27ecf213b9dfe3",
+  "local_snapshot_hashes": {
+    "LICENSE": "53af10dcfbdccc453792f0037a84746ebbb180b4b8f887e1620fc5c05b8a05ae",
+    "README.md": "05f3ac1e441381c40213769c940e92c3314f17ab2c6278abeda3685d4d2d4952",
+    "SKILL.md": "d7cb1014773963b3dd58e08ccdb1f7540c2ea1c5eda0088f8cdc55423ff40a49",
+    "examples/demo-conversation.md": "47261c2c27a87e3997e9b26a068424d9af2425c0b752026246ba8e61a2a8b3f6",
+    "references/research.md": "7030f1ed53f3139aaf213e97cca220185b3bc707d6d187cac05158058fdf6835"
+  },
+  "snapshot_note": "Installed local snapshot; upstream HEAD is the license verification reference, not asserted as the origin commit of every local file.",
+  "installed_id": "kant-perspective"
+}
