@@ -2,7 +2,7 @@
 
 [中文](README.md) | [English](README.en.md)
 
-来自 [nuwa-skills/socrates-skill](https://github.com/nuwa-skills/socrates-skill) 的上游模块，保留原作者与 [MIT许可](LICENSE)。这是既有本地安装快照，不冒称与当前上游 HEAD 完全相同；不套用本项目21个自制模块的评分。
+来自 [nuwa-skills/socrates-skill](https://github.com/nuwa-skills/socrates-skill) 的上游模块，保留原作者与 [MIT许可](LICENSE)。来源记录见 [SOURCE.json](SOURCE.json)。
 
 ## 安装
 
@@ -29,3 +29,7 @@ git clone https://github.com/jiushiaaa/Philosophy-Skills.git
 不支持自动加载时，可把 `SKILL.md` 连同当前问题需要的引用文件交给 agent。README 与使用说明提供中英双语，研究底稿保留原语言。
 
 [Usage / 使用](USAGE.md) · [Upstream / 原始来源](https://github.com/nuwa-skills/socrates-skill) · [Provenance / 来源记录](SOURCE.json)
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Philosophy Skills 合集](https://github.com/jiushiaaa/Philosophy-Skills)。

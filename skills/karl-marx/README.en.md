@@ -2,7 +2,7 @@
 
 [中文](README.md) | [English](README.en.md)
 
-Attributed upstream module from [youaifuou/karl-marx-skill](https://github.com/youaifuou/karl-marx-skill/tree/main/karl-marx). Original authorship and [MIT license](LICENSE) are retained. This is a local installed snapshot, not a claim of exact correspondence to the current upstream HEAD. It was not scored as one of our 21 original skills.
+Attributed upstream module from [youaifuou/karl-marx-skill](https://github.com/youaifuou/karl-marx-skill/tree/main/karl-marx). Original authorship and [MIT license](LICENSE) are retained. See [SOURCE.json](SOURCE.json) for provenance.
 
 ## Installation
 
@@ -29,3 +29,7 @@ git clone https://github.com/jiushiaaa/Philosophy-Skills.git
 If automatic skill loading is unavailable, provide `SKILL.md` together with the referenced files needed for your question. Research notes remain in their source languages; README and usage guides are bilingual.
 
 [Usage / 使用](USAGE.md) · [Upstream / 原始来源](https://github.com/youaifuou/karl-marx-skill/tree/main/karl-marx) · [Provenance / 来源记录](SOURCE.json)
+
+## More skills
+
+Explore more thinkers and writers in the [Philosophy Skills collection](https://github.com/jiushiaaa/Philosophy-Skills).

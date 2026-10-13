@@ -6,7 +6,7 @@
 
 **46个独立思想与文学 Skill：21个自制模块 + 25个注明来源的上游模块。** 各人物保持独立，按问题选择，不把不同思想混成一种立场。加缪、黑格尔仅收录本项目独立重写版。
 
-21个自制模块使用[花叔的女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)构建，其余25个保留上游归属，不作为本项目原创成果。
+21个自制模块使用 [nvwa-skill](https://github.com/alchaincyf/nuwa-skill) 构建，其余25个保留上游归属，不作为本项目原创成果。
 
 ## 安装合集
 
@@ -51,7 +51,7 @@ npx skills add jiushiaaa/Philosophy-Skills --skill descartes-perspective
 |[谢林](skills/schelling-perspective/README.md)|主客关系、根据与自由|[schelling-skill](https://github.com/jiushiaaa/schelling-skill)|`npx skills add jiushiaaa/schelling-skill`|
 |[威廉·詹姆斯](skills/william-james-perspective/README.md)|经验、实用主义与信念|[william-james-skill](https://github.com/jiushiaaa/william-james-skill)|`npx skills add jiushiaaa/william-james-skill`|
 
-## 25个上游模块与来源致谢
+## 25个上游模块与来源
 
 |人物|原始仓库|作者 / 维护者|许可|
 |---|---|---|---|
@@ -85,12 +85,8 @@ npx skills add jiushiaaa/Philosophy-Skills --skill descartes-perspective
 
 21个自制模块默认中性思想分析，明确请求后才开启人物表达，进入文游恢复中性。25个上游模块保留自己的规则，默认行为可能不同。按需选择单个人物，比较时分别给出依据并保留分歧。详见 [USAGE.md](USAGE.md)。
 
-## 质量与语言范围
+## 许可与来源
 
-R3对21个自制模块完成独立双评，其中11个同时达到A且无未解决阻碍。其他模块保留已知局限，不宣称全员A或全集蒸馏；25个上游模块未参加这套评测。每个自制模块的FIDELITY.md保留成绩和弱点。README及使用文档中英双语，技能正文与研究底稿保留原文。
+原创内容与整合文档采用 [MIT](LICENSE)。上游模块保留原作者署名与许可，原始仓库见上方列表；引用的原著与译本保留各自权利。详见 [来源说明](ATTRIBUTION.md)。
 
-## 致谢与许可
-
-感谢花叔 / alchaincyf 与女娲、nuwa-skills及其贡献者、youaifuou、wwwaapplleecu-source、momozi1996，以及各上游LICENSE注明的作者。感谢 Agent Skills 和 vercel-labs/skills 提供协议与安装器。仓库维护者与著作权署名不同的，均保留原许可中的署名。
-
-本项目原创内容与整合文档采用 [MIT](LICENSE)，上游模块保留自己的MIT声明。所引用的原著、译本和数字版本保留各自权利。归属与版本信息见 [ATTRIBUTION.md](ATTRIBUTION.md) 和 [catalog.json](catalog.json)，不暗示上游作者为本项目背书。
+README 与使用文档提供中英双语，Skill 正文与研究底稿保留原文。

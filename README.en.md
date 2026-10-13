@@ -6,7 +6,7 @@
 
 **46 independent thinking and literary skills: 21 original modules + 25 attributed upstream modules.** Preserve disagreements; select the relevant thinker rather than blending them into a single worldview. Camus and Hegel use our independently rewritten versions.
 
-The original modules were built using [Nuwa](https://github.com/alchaincyf/nuwa-skill) by Huashu / alchaincyf. The other 25 retain their upstream authorship; they are not presented as our original work.
+The original modules were built with [nvwa-skill](https://github.com/alchaincyf/nuwa-skill). The other 25 retain their upstream authorship; they are not presented as our original work.
 
 ## Install the collection
 
@@ -85,12 +85,8 @@ Append `-a codex` / `-a claude-code` / `-a cursor` to select a runtime and `-g` 
 
 Our 21 modules default to neutral thought analysis. Persona expression requires an explicit request; fiction work returns to neutral analysis. The 25 upstream modules keep their own instructions and may have different defaults. Choose one module at a time, or ask for separately sourced comparisons. See [USAGE.md](USAGE.md).
 
-## Quality and language scope
+## License and sources
 
-R3 tested our 21 modules: 11 passed both reviewers at A without unresolved blockers. The others remain usable with documented limitations; no universal A or complete-works claim is made. The 25 upstream modules did not undergo this evaluation. All results and weaknesses are retained in the original modules' FIDELITY.md files. README and usage guides are bilingual; skill bodies and research notes retain their source languages.
+Original work and integration documentation are [MIT licensed](LICENSE). Upstream modules retain their original copyright and license notices; their repositories are linked above. Source books and translations retain their separate rights. See [ATTRIBUTION.md](ATTRIBUTION.md).
 
-## Acknowledgments and license
-
-Thanks to Huashu / alchaincyf and Nuwa, nuwa-skills and its contributors, youaifuou, wwwaapplleecu-source, momozi1996, and all authors credited in the upstream licenses. Thanks to Agent Skills and vercel-labs/skills for the standard and installer. Upstream copyright notices are retained, including those whose named author differs from the repository owner.
-
-Our original work and integration documentation are [MIT licensed](LICENSE). Bundled upstream modules retain their own MIT notices. Source books and translations retain their separate rights. See [ATTRIBUTION.md](ATTRIBUTION.md) and [catalog.json](catalog.json) for provenance. No endorsement by upstream authors is implied.
+README and usage guides are bilingual; skill bodies and research notes retain their source languages.
